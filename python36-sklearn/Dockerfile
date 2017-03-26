@@ -38,6 +38,7 @@ RUN echo 'alias python=python3.6' >> ~/.bashrc
 RUN pip install numpy
 RUN pip install scipy
 RUN pip install scikit-learn
+RUN pip install lxml
 
 CMD chcp 65001
 CMD set PYTHONIOENCODING=utf-8
