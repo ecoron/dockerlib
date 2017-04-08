@@ -1,0 +1,1 @@
+A Dockerfile to run a Minecarft-Server (spigot-1.11.2).
