@@ -8,3 +8,5 @@ Also installed pip 9.0.1 and the additional python packages
 numpy, scipy, scikit-learn, lxml
 
 Dockerhub: https://hub.docker.com/r/ecoron/python36-sklearn/
+
+github: https://github.com/ecoron/dockerlib/tree/master/python36-sklearn

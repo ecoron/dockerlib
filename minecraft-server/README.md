@@ -12,4 +12,6 @@ The default ports are:
 * rcon.port=25575
 * query.port=25565
 
+Dockerhub: https://hub.docker.com/r/ecoron/minecraft-server/
+
 github: https://github.com/ecoron/dockerlib/tree/master/minecraft-server
