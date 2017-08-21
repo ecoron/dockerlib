@@ -20,7 +20,7 @@ fi
 
 VERSIONS_JSON=https://launchermeta.mojang.com/mc/game/version_manifest.json
 TYPE=SPIGOT
-DOWNLOAD_URL=https://ci.mcadmin.net/job/Spigot/lastSuccessfulBuild/artifact/spigot-1.11.2.jar
+DOWNLOAD_URL=https://cdn.getbukkit.org/spigot/spigot-1.12.1.jar
 
 echo "Checking version information."
 case "X$VERSION" in
