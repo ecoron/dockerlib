@@ -10,7 +10,7 @@ RUN apt-get update
 
 RUN apt-get -y install git
 RUN apt-get -y install wget
-RUN apt-get -y install python3.6
+RUN apt-get -y install python3.6 python3.6-distutils
 
 RUN wget https://bootstrap.pypa.io/get-pip.py
 
